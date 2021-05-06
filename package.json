@@ -1,0 +1,23 @@
+{
+  "name": "booking-systems",
+  "version": "1.0.0",
+  "description": "List of OpenActive enabled booking systems that work with Classfinder",
+  "main": "build.js",
+  "scripts": {
+    "start": "node build.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emduk/booking-systems.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emduk/booking-systems/issues"
+  },
+  "homepage": "https://github.com/emduk/booking-systems#readme",
+  "dependencies": {
+    "handlebars": "^4.7.7"
+  }
+}

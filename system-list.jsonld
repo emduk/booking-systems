@@ -1,0 +1,72 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "itemListElement": [
+    {
+      "@type": "BookingService",
+      "name": "Bookwhen",
+      "moreUrl": "http://support.bookwhen.com/en/articles/1283090-sharing-your-activity-data-with-openactive",
+      "url": "https://bookwhen.com/",
+      "image": {
+        "@type": "ImageObject",
+        "url": "./images/bookwhen.png"
+      },
+      "bookable": "❌"
+    },
+    {
+      "@type": "BookingService",
+      "name": "Fitune",
+      "moreUrl": "https://www.fitune.io/",
+      "url": "https://www.fitune.io/",
+      "image": {
+        "@type": "ImageObject",
+        "url": "./images/fitune.png"
+      },
+      "bookable": "✅"
+    },
+    {
+      "@type": "BookingService",
+      "name": "Open Sessions",
+      "moreUrl": "https://opensessions.io/",
+      "url": "https://opensessions.io/openactive",
+      "image": {
+        "@type": "ImageObject",
+        "url": "./images/opensessions.png"
+      },
+      "bookable": "❌"
+    },
+    {
+      "@type": "BookingService",
+      "name": "Played",
+      "moreUrl": "https://played.co/",
+      "url": "https://played.co/",
+      "image": {
+        "@type": "ImageObject",
+        "url": "./images/played.png"
+      },
+      "bookable": "✅"
+    },
+    {
+      "@type": "BookingService",
+      "name": "Playwaze",
+      "moreUrl": "https://playwaze.com/home/publishpromote",
+      "url": "https://playwaze.com/",
+      "image": {
+        "@type": "ImageObject",
+        "url": "./images/playwaze.png"
+      },
+      "bookable": "✅"
+    },
+    {
+      "@type": "BookingService",
+      "name": "TeamUp",
+      "moreUrl": "https://support.goteamup.com/en/articles/4066504-openactive-with-teamup",
+      "url": "https://goteamup.com/",
+      "image": {
+        "@type": "ImageObject",
+        "url": "./images/teamup.png"
+      },
+      "bookable": "❌"
+    }
+  ]
+}
