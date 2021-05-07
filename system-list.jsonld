@@ -28,7 +28,7 @@
       "@type": "BookingService",
       "name": "Open Sessions",
       "moreUrl": "https://opensessions.io/",
-      "url": "https://opensessions.io/openactive",
+      "url": "https://opensessions.io/",
       "image": {
         "@type": "ImageObject",
         "url": "./images/opensessions.png"
