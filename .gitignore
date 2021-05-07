@@ -105,3 +105,6 @@ dist
 
 # Generated files
 index.html
+
+# MacOS files
+.DS_Store
