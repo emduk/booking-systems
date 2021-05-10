@@ -22,7 +22,7 @@
         "@type": "ImageObject",
         "url": "./images/fitune.png"
       },
-      "bookable": "✅"
+      "bookable": "🔜"
     },
     {
       "@type": "BookingService",
@@ -44,7 +44,7 @@
         "@type": "ImageObject",
         "url": "./images/played.png"
       },
-      "bookable": "✅"
+      "bookable": "🔜"
     },
     {
       "@type": "BookingService",
@@ -55,7 +55,7 @@
         "@type": "ImageObject",
         "url": "./images/playwaze.png"
       },
-      "bookable": "✅"
+      "bookable": "🔜"
     },
     {
       "@type": "BookingService",
