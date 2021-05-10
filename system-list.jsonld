@@ -22,18 +22,20 @@
         "@type": "ImageObject",
         "url": "./images/fitune.png"
       },
-      "bookable": "🔜"
+      "bookable": "🔜",
+      "hidden": true
     },
     {
       "@type": "BookingService",
       "name": "Open Sessions",
-      "moreUrl": "https://opensessions.io/",
+      "moreUrl": "https://intercom.help/opensessions/en/articles/4486134-how-to-get-your-activities-promoted-on-the-biggest-activity-finders-and-campaigns",
       "url": "https://opensessions.io/",
       "image": {
         "@type": "ImageObject",
         "url": "./images/opensessions.png"
       },
-      "bookable": "❌"
+      "bookable": "❌",
+      "hidden": true
     },
     {
       "@type": "BookingService",
@@ -44,7 +46,8 @@
         "@type": "ImageObject",
         "url": "./images/played.png"
       },
-      "bookable": "🔜"
+      "bookable": "🔜",
+      "hidden": true
     },
     {
       "@type": "BookingService",
@@ -55,7 +58,8 @@
         "@type": "ImageObject",
         "url": "./images/playwaze.png"
       },
-      "bookable": "🔜"
+      "bookable": "🔜",
+      "hidden": true
     },
     {
       "@type": "BookingService",

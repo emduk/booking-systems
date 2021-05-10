@@ -3,8 +3,9 @@ const Handlebars = require('handlebars');
 
 // The entire data object needs to be included in the dataset site so the OpenActive parser can read it
 var data = JSON.parse(fs.readFileSync('system-list.jsonld', { encoding:'utf8' }));
-// Create a `data` property containing `data.json` so that Mustache can read it
-data.json = JSON.stringify(data, null, 2);
+
+// Filter out hidden options
+data.itemListElement = data.itemListElement.filter(x => !x.hidden);
 
 // Use the resulting JSON with the mustache template to render the dataset site.
 var html = renderTemplate('index', data);
