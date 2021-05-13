@@ -16,14 +16,13 @@
     {
       "@type": "BookingService",
       "name": "Fitune",
-      "moreUrl": "https://www.fitune.io/",
+      "moreUrl": "https://support.fitune.io/hc/en-gb/articles/360021571079",
       "url": "https://www.fitune.io/",
       "image": {
         "@type": "ImageObject",
         "url": "./images/fitune.png"
       },
-      "bookable": "🔜",
-      "hidden": true
+      "bookable": "🔜"
     },
     {
       "@type": "BookingService",
