@@ -38,14 +38,13 @@
     {
       "@type": "BookingService",
       "name": "Played",
-      "moreUrl": "https://played.co/",
+      "moreUrl": "https://played-1.gitbook.io/reach-help-centre/",
       "url": "https://played.co/",
       "image": {
         "@type": "ImageObject",
         "url": "./images/played.png"
       },
-      "bookable": "🔜",
-      "hidden": true
+      "bookable": "🔜"
     },
     {
       "@type": "BookingService",
