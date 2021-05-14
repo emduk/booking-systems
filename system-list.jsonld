@@ -27,14 +27,13 @@
     {
       "@type": "BookingService",
       "name": "Open Sessions",
-      "moreUrl": "https://intercom.help/opensessions/en/articles/4486134-how-to-get-your-activities-promoted-on-the-biggest-activity-finders-and-campaigns",
+      "moreUrl": "https://intercom.help/opensessions/en/articles/5223906-what-is-openactive-and-open-data",
       "url": "https://opensessions.io/",
       "image": {
         "@type": "ImageObject",
         "url": "./images/opensessions.png"
       },
-      "bookable": "❌",
-      "hidden": true
+      "bookable": "❌"
     },
     {
       "@type": "BookingService",
@@ -51,14 +50,13 @@
     {
       "@type": "BookingService",
       "name": "Playwaze",
-      "moreUrl": "https://playwaze.com/home/publishpromote",
+      "moreUrl": "https://help.playwaze.com/en/knowledge/sharing-your-activity-data-with-openactive",
       "url": "https://playwaze.com/",
       "image": {
         "@type": "ImageObject",
         "url": "./images/playwaze.png"
       },
-      "bookable": "🔜",
-      "hidden": true
+      "bookable": "🔜"
     },
     {
       "@type": "BookingService",
